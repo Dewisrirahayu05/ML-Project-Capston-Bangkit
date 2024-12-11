@@ -2,7 +2,5 @@
 ## Dataset dari Kaggle
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
-## Google colab
-https://colab.research.google.com/drive/1dUC2m-S9AmwPRAtqm1kd-azjNlqypdLz#scrollTo=SCGpe1sXJTAG
-
-## brain_tumor_model.h5
+## Model.h5
+https://drive.google.com/drive/folders/1uHBB5xuh1tBfGXwIYzZqy4pyRHGsK03J?usp=sharing
