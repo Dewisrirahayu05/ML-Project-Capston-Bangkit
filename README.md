@@ -6,10 +6,10 @@ So in this project, we developed a machine learning model that is able to classi
 
 ![image](https://github.com/user-attachments/assets/43ee3ddf-695b-48c2-8264-abe13ac8cf86)
 
-# Evaluasi Model pada Data Testing
+# Model Evaluation on Testing Data
 To evaluate the performance of the model in classifying brain tumor types, we used the Confusion Matrix and Classification Report.
 
-## berikut hasilnya:
+## Here are the results:
 ![image](https://github.com/user-attachments/assets/525991b0-ac51-4ad2-bb65-b4cb1e8cdf00)
 
 Classification Report:
