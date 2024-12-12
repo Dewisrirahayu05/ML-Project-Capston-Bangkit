@@ -13,13 +13,13 @@ Untuk mengevaluasi kinerja model dalam mengklasifikasikan jenis-jenis tumor otak
 ![image](https://github.com/user-attachments/assets/bf8e04dc-c3d0-433a-8c26-ded369f8a1d5)
 
 Classification Report:
-              precision    recall  f1-score   support
 
-      glioma       1.00      0.84      0.91       163
-  meningioma       0.86      0.89      0.88       165
-     notumor       0.96      0.98      0.97       201
-   pituitary       0.90      0.99      0.95       176
+    precision    recall  f1-score   support
+glioma       1.00      0.84      0.91       163
+meningioma       0.86      0.89      0.88       165
+notumor       0.96      0.98      0.97       201
+pituitary       0.90      0.99      0.95       176
 
-    accuracy                           0.93       705
-   macro avg       0.93      0.93      0.93       705
+accuracy                           0.93       705
+macro avg       0.93      0.93      0.93       705
 weighted avg       0.93      0.93      0.93       705
